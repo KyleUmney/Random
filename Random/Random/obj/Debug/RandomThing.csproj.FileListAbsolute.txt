@@ -1,0 +1,7 @@
+C:\Development\Training\Random\Random\bin\Debug\Random.exe.config
+C:\Development\Training\Random\Random\bin\Debug\Random.exe
+C:\Development\Training\Random\Random\bin\Debug\Random.pdb
+C:\Development\Training\Random\Random\obj\Debug\RandomThing.csproj.CoreCompileInputs.cache
+C:\Development\Training\Random\Random\obj\Debug\Random.exe
+C:\Development\Training\Random\Random\obj\Debug\Random.pdb
+C:\Development\Training\Random\Random\obj\Debug\RandomThing.csprojResolveAssemblyReference.cache
